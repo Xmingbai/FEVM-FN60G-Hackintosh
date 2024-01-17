@@ -54,5 +54,7 @@ USB端口定制
 ![](https://github.com/Xmingbai/FEVM-FN60G-Hackintosh/blob/main/FN60G-6600.png)
 ![](https://github.com/Xmingbai/FEVM-FN60G-Hackintosh/blob/main/FN60G-ETH.png)
 ![](https://github.com/Xmingbai/FEVM-FN60G-Hackintosh/blob/main/FN60G-AU.png)
+![](https://github.com/Xmingbai/FEVM-FN60G-Hackintosh/blob/main/FN60G-WIFI.png)
+![](https://github.com/Xmingbai/FEVM-FN60G-Hackintosh/blob/main/FN60G-BT.png)
 ![](https://github.com/Xmingbai/FEVM-FN60G-Hackintosh/blob/main/FN60G-2.png)
 ![](https://github.com/Xmingbai/FEVM-FN60G-Hackintosh/blob/main/FN60G-3.png)
