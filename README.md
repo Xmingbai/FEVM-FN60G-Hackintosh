@@ -2,6 +2,7 @@
 
 更新中
 
+淘宝链接：https://s.tb.cn/c.0Ecbux
 
 工程机B站测评视频：https://www.bilibili.com/video/BV1ju4y1c71X
 
