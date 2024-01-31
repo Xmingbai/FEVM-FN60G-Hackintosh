@@ -1,6 +1,6 @@
 # FEVM-FN60G-Hackintosh
 
-更新中
+这台主机也会长期自用，引导会保持更新
 
 淘宝链接：https://s.tb.cn/c.0Ecbux
 
