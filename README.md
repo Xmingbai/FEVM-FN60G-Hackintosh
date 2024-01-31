@@ -6,6 +6,8 @@
 
 工程机B站测评视频：https://www.bilibili.com/video/BV1ju4y1c71X
 
+量产版拆机及双系统安装教程：https://www.bilibili.com/video/BV1BT4y1t7xc
+
 
 
 ===========================================================================
