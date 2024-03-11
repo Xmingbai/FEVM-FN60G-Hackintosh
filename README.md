@@ -8,7 +8,7 @@
 
 量产版拆机及双系统安装教程：https://www.bilibili.com/video/BV1BT4y1t7xc
 
-
+不同CPU性能测试：https://www.bilibili.com/video/BV1s642137YK
 
 ===========================================================================
 # 主机配置单
